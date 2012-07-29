@@ -1,0 +1,7 @@
+E:\dev\freizeit-coding-2012\mikudown\mikudown\bin\Debug\mikudown.exe
+E:\dev\freizeit-coding-2012\mikudown\mikudown\bin\Debug\mikudown.pdb
+E:\dev\freizeit-coding-2012\mikudown\mikudown\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dev\freizeit-coding-2012\mikudown\mikudown\obj\x86\Debug\mikudown.exe
+E:\dev\freizeit-coding-2012\mikudown\mikudown\obj\x86\Debug\mikudown.pdb
+E:\dev\freizeit-coding-2012\mikudown\mikudown\obj\x86\Debug\mikudown.MainForm.resources
+E:\dev\freizeit-coding-2012\mikudown\mikudown\obj\x86\Debug\mikudown.csproj.GenerateResource.Cache
